@@ -5,3 +5,12 @@ This is a guide that seeks to introduce the fundamental and practical basic aspe
 Here we will approach the Classification, Clustering and Regression models, trying to explain and build the main steps for each of the models.
 
 It is also discussed about the main forms of evaluation and visualization, considering the used dataset.
+
+-------------------------------
+
+To Improve:
+* Numpy and Pandas: cheat sheet and best practices
+* Matplotlib: plotting logic
+* Linear Regression Model
+* Introduction to Neural Networks
+* From Spark to Pyspark
